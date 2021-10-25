@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This is an RPG that I need to build ",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjb4040/jest-another-RPG.git"
+  },
+  "author": "Mike Blackwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjb4040/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/mjb4040/jest-another-RPG#readme"
+}
