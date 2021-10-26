@@ -4,7 +4,7 @@
   "description": "This is an RPG that I need to build ",
   "main": "index.js",
   "scripts": {
-    "test": "no"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mjb4040/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/mjb4040/jest-another-RPG#readme"
+  "homepage": "https://github.com/mjb4040/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
